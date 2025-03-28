@@ -1,0 +1,4 @@
+ALTER TABLE tareas
+	DROP FOREIGN KEY tareas_ibfk_1;
+ALTER TABLE tareas
+	ADD CONSTRAINT tareas_ibfk_1 FOREIGN KEY (autor) REFERENCES usuarios(id_usuario) ON UPDATE CASCADE ON DELETE CASCADE;
