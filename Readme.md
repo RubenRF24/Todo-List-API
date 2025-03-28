@@ -1,5 +1,3 @@
-Aquí tienes la traducción al español del contenido del archivo .MD, manteniendo el formato original:
-
 # API de Lista de Tareas
 
 En este proyecto se requiere desarrollar una API RESTful para permitir a los usuarios gestionar su lista de tareas. Los proyectos backend anteriores se han centrado únicamente en operaciones CRUD, pero este proyecto requerirá que implementes autenticación de usuarios también.
